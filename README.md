@@ -1,0 +1,1 @@
+These are some regression programs that take in arrays of inputs and corresponding outputs to calculate a formula that allows extrapolation to new data points. This can be considered the most basic level of machine learning, as it's a program "learning" from given data to learn what it should do with new data.
